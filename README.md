@@ -1,6 +1,7 @@
 # Dark Country Welcomes You 
 
-Some of our projects are planned to be open sourced. Please saty tuned.
+Some of our projects are planned to be open sourced. Please stay tuned.
+
 Please contact contact@darkcountry.io for any requests. 
 
 | | | | 
